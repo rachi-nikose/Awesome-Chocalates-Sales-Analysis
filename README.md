@@ -31,6 +31,19 @@ Description: This report evaluates the sales performance of different sales pers
 
 Description: This report analyzes trends in sales data and provides forecasting for future sales.
 
+### Actionable Recommendations:
+Invest more in high-performing products and regions while discontinuing or repositioning underperforming ones.
+
+Plan targeted promotions for different customer segments based on purchasing behavior.
+
+Adjust pricing strategies based on demand elasticity.
+
+Improve inventory planning to prevent stockouts and overstocking.
+
+Optimize marketing strategies around seasonal demand.
+
+
+
 ## How to Use
 
 To view the reports, download the .pbix file and open it using PowerBI Desktop.
